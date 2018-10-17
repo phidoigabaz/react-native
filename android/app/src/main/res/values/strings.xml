@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">airnbnClone</string>
+    <string name="facebook_app_id">241052609908883</string> <string name="fb_login_protocol_scheme">fb241052609908883</string>
+</resources>
